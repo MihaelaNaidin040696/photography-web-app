@@ -3,6 +3,7 @@ import Slider from "@/components/Slider";
 import Head from "next/head";
 import Image from "next/image";
 import { SliderData } from "@/components/SliderData";
+import Instagram from "@/components/Instagram";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
         message="I capture moments in nature and keep them alive."
       />
       <Slider slides={SliderData} />
+      <Instagram />
     </>
   );
 }
