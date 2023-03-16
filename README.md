@@ -1,38 +1,58 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# **<div align="center">Photography 📷 CAPTUR </div>**  
+  
 
-## Getting Started
+-  📷 Captur is a website where a photographer shows people his work.  
+  
 
-First, run the development server:
+- 🏞️ On the main page is displayed a carousel with some images, also the Instagram pictures of the photographer to can follow him there.  
+  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- 🌄 On the work page, several photos are displayed, creating like a portfolio of the artist.  
+  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 📬 On the contact page, the website visitor can contact the photographer by completing the displayed form.  
+  
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- 📱 The website is responsive and can be used on mobile phone, tablet or laptop.  
+  
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<br/>  
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## <div align="center">Technologies used </div>   
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
+</div>
 
-## Learn More
+<br/>  
 
-To learn more about Next.js, take a look at the following resources:
+### <div align="center">Home Page</div>  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![home-1](https://user-images.githubusercontent.com/98595633/225660766-bee8ab35-f404-4a35-91c7-dd7ae3b118d1.jpg)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![home-2](https://user-images.githubusercontent.com/98595633/225660818-182afdd3-1806-42b4-a2fc-7e45a221df6e.jpg)
 
-## Deploy on Vercel
+![home-3](https://user-images.githubusercontent.com/98595633/225660834-5f8b2c2c-f4fe-4662-8f24-2e5ea1b79b09.jpg)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![home-5](https://user-images.githubusercontent.com/98595633/225660871-b4ce3ade-9ada-4bb0-8ea5-51a7d89cde77.jpg)
+![home-4](https://user-images.githubusercontent.com/98595633/225660889-f103106f-4f94-4878-accd-0a8385cdd988.jpg)
+![responive-navbar](https://user-images.githubusercontent.com/98595633/225661060-71680719-3dfb-4cec-b8ad-4c2f4ad9f119.jpg)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### <div align="center">Work Page</div>
+
+![work-1](https://user-images.githubusercontent.com/98595633/225661486-c62cf8c5-cb7b-4e8b-a717-173d971bf405.jpg)
+
+![work-2](https://user-images.githubusercontent.com/98595633/225661508-7dd852fa-b485-4b55-a038-22afa7dbec23.jpg)
+
+![work-3](https://user-images.githubusercontent.com/98595633/225661654-0f962e2d-d5e8-4d7d-855e-5146cc0afc4e.jpg)
+
+### <div align="center">Contact Page</div>
+
+![contact-1](https://user-images.githubusercontent.com/98595633/225662214-d3e03126-ae3a-41d1-bd3e-9cd9de3e35e7.jpg)
+
+![contact-2](https://user-images.githubusercontent.com/98595633/225662233-23afcce5-40a1-42b9-b473-10093914dd68.jpg)
+
+![contact-3](https://user-images.githubusercontent.com/98595633/225662651-5ca8ce97-7940-48bf-b7b1-00e3ac4a98dd.jpg)
